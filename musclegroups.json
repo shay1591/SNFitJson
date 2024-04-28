@@ -8,7 +8,7 @@
                 "Id": 1,
                 "Name": "Pushups",
                 "Level": "Beginner",
-                "Duration": "2 minutes",
+                "Duration": "00:02:00",
                 "Repetitions": 10,
                 "Description": "Start in a plank position with your hands slightly wider than shoulder-width apart. Lower your body until your chest nearly touches the floor. Keep your core engaged and back flat. Push back up to the starting position."
             },
@@ -16,7 +16,7 @@
                 "Id": 2,
                 "Name": "Decline Pushups",
                 "Level": "Beginner",
-                "Duration": "2 minutes",
+                "Duration": "00:02:00",
                 "Repetitions": 10,
                 "Description": "Assume a pushup position with your feet elevated on a stable surface (e.g., a bench or chair). Lower your body until your chest nearly touches the floor, then push back up to the starting position."
             },
@@ -24,7 +24,7 @@
                 "Id": 3,
                 "Name": "Wide Arm Pushups",
                 "Level": "Beginner",
-                "Duration": "2 minutes",
+                "Duration": "00:02:00",
                 "Repetitions": 10,
                 "Description": "Perform pushups with your hands positioned wider than shoulder-width apart. This variation targets the chest muscles from a different angle."
             },
@@ -32,7 +32,7 @@
                 "Id": 4,
                 "Name": "Pushups",
                 "Level": "Intermediate",
-                "Duration": "1.5 minutes",
+                "Duration": "00:01:30",
                 "Repetitions": 14,
                 "Description": "Start in a plank position with your hands slightly wider than shoulder-width apart. Lower your body until your chest nearly touches the floor. Keep your core engaged and back flat. Push back up to the starting position."
             },
@@ -40,7 +40,7 @@
                 "Id": 5,
                 "Name": "Decline Pushups",
                 "Level": "Intermediate",
-                "Duration": "1.5 minutes",
+                "Duration": "00:01:30",
                 "Repetitions": 14,
                 "Description": "Assume a pushup position with your feet elevated on a stable surface (e.g., a bench or chair). Lower your body until your chest nearly touches the floor, then push back up to the starting position."
             },
@@ -48,7 +48,7 @@
                 "Id": 6,
                 "Name": "Wide Arm Pushups",
                 "Level": "Intermediate",
-                "Duration": "1.5 minutes",
+                "Duration": "00:01:30",
                 "Repetitions": 14,
                 "Description": "Perform pushups with your hands positioned wider than shoulder-width apart. This variation targets the chest muscles from a different angle."
             },
@@ -56,7 +56,7 @@
                 "Id": 7,
                 "Name": "Pushups",
                 "Level": "Advanced",
-                "Duration": "1.5 minutes",
+                "Duration": "00:01:30",
                 "Repetitions": 18,
                 "Description": "Start in a plank position with your hands slightly wider than shoulder-width apart. Lower your body until your chest nearly touches the floor. Keep your core engaged and back flat. Push back up to the starting position."
             },
@@ -64,7 +64,7 @@
                 "Id": 8,
                 "Name": "Decline Pushups",
                 "Level": "Advanced",
-                "Duration": "1.5 minutes",
+                "Duration": "00:01:30",
                 "Repetitions": 18,
                 "Description": "Assume a pushup position with your feet elevated on a stable surface (e.g., a bench or chair). Lower your body until your chest nearly touches the floor, then push back up to the starting position."
             },
@@ -72,7 +72,7 @@
                 "Id": 9,
                 "Name": "Wide Arm Pushups",
                 "Level": "Advanced",
-                "Duration": "1.5 minutes",
+                "Duration": "00:01:30",
                 "Repetitions": 18,
                 "Description": "Perform pushups with your hands positioned wider than shoulder-width apart. This variation targets the chest muscles from a different angle."
             }
@@ -87,7 +87,7 @@
                 "Id": 10,
                 "Name": "Bodyweight Rows",
                 "Level": "Beginner",
-                "Duration": "2 minutes",
+                "Duration": "00:02:00",
                 "Repetitions": 10,
                 "Description": "Find a sturdy horizontal bar (e.g., a table edge or a low bar). Lie underneath it and grab the bar with an overhand grip, arms fully extended. Pull your chest towards the bar, then lower yourself back down."
             },
@@ -95,7 +95,7 @@
                 "Id": 11,
                 "Name": "Reverse Snow Angels",
                 "Level": "Beginner",
-                "Duration": "2 minutes",
+                "Duration": "00:02:00",
                 "Repetitions": 10,
                 "Description": "Lie face down with your arms extended overhead. Lift your chest and arms off the floor while keeping your head in a neutral position. Squeeze your shoulder blades together, then return to the starting position."
             },
@@ -103,7 +103,7 @@
                 "Id": 12,
                 "Name": "Superman",
                 "Level": "Beginner",
-                "Duration": "2 minutes",
+                "Duration": "00:02:00",
                 "Repetitions": 10,
                 "Description": "Lie face down with your arms extended overhead. Simultaneously lift your arms, chest, and legs off the floor, aiming to create a 'U' shape with your body. Hold for a moment, then lower back down."
             },
@@ -111,7 +111,7 @@
                 "Id": 13,
                 "Name": "Bodyweight Rows",
                 "Level": "Intermediate",
-                "Duration": "1.5 minutes",
+                "Duration": "00:01:30",
                 "Repetitions": 14,
                 "Description": "Find a sturdy horizontal bar (e.g., a table edge or a low bar). Lie underneath it and grab the bar with an overhand grip, arms fully extended. Pull your chest towards the bar, then lower yourself back down."
             },
@@ -119,7 +119,7 @@
                 "Id": 14,
                 "Name": "Reverse Snow Angels",
                 "Level": "Intermediate",
-                "Duration": "1.5 minutes",
+                "Duration": "00:01:30",
                 "Repetitions": 14,
                 "Description": "Lie face down with your arms extended overhead. Lift your chest and arms off the floor while keeping your head in a neutral position. Squeeze your shoulder blades together, then return to the starting position."
             },
@@ -127,7 +127,7 @@
                 "Id": 15,
                 "Name": "Superman",
                 "Level": "Intermediate",
-                "Duration": "1.5 minutes",
+                "Duration": "00:01:30",
                 "Repetitions": 14,
                 "Description": "Lie face down with your arms extended overhead. Simultaneously lift your arms, chest, and legs off the floor, aiming to create a 'U' shape with your body. Hold for a moment, then lower back down."
             },
@@ -135,7 +135,7 @@
                 "Id": 16,
                 "Name": "Bodyweight Rows",
                 "Level": "Advanced",
-                "Duration": "1.5 minutes",
+                "Duration": "00:01:30",
                 "Repetitions": 18,
                 "Description": "Find a sturdy horizontal bar (e.g., a table edge or a low bar). Lie underneath it and grab the bar with an overhand grip, arms fully extended. Pull your chest towards the bar, then lower yourself back down."
             },
@@ -143,7 +143,7 @@
                 "Id": 17,
                 "Name": "Reverse Snow Angels",
                 "Level": "Advanced",
-                "Duration": "1.5 minutes",
+                "Duration": "00:01:30",
                 "Repetitions": 18,
                 "Description": "Lie face down with your arms extended overhead. Lift your chest and arms off the floor while keeping your head in a neutral position. Squeeze your shoulder blades together, then return to the starting position."
             },
@@ -151,7 +151,7 @@
                 "Id": 18,
                 "Name": "Superman",
                 "Level": "Advanced",
-                "Duration": "1.5 minutes",
+                "Duration": "00:01:30",
                 "Repetitions": 18,
                 "Description": "Lie face down with your arms extended overhead. Simultaneously lift your arms, chest, and legs off the floor, aiming to create a 'U' shape with your body. Hold for a moment, then lower back down."
             }
@@ -166,7 +166,7 @@
                 "Id": 19,
                 "Name": "Bodyweight Squats",
                 "Level": "Beginner",
-                "Duration": "2 minutes",
+                "Duration": "00:02:00",
                 "Repetitions": 10,
                 "Description": "Stand with your feet shoulder-width apart. Lower your body by bending at the hips and knees, keeping your chest upright. Squat down until your thighs are parallel to the ground, then push back up to the starting position."
             },
@@ -174,7 +174,7 @@
                 "Id": 20,
                 "Name": "Lunges",
                 "Level": "Beginner",
-                "Duration": "2 minutes",
+                "Duration": "00:02:00",
                 "Repetitions": 10,
                 "Description": "Step forward with one leg and lower your body until both knees are bent at about a 90-degree angle. Keep your torso upright and your front knee aligned with your ankle. Push back up to the starting position and repeat with the other leg."
             },
@@ -182,7 +182,7 @@
                 "Id": 21,
                 "Name": "Calf Raises",
                 "Level": "Beginner",
-                "Duration": "2 minutes",
+                "Duration": "00:02:00",
                 "Repetitions": 10,
                 "Description": "Stand on the balls of your feet on an elevated surface (e.g., a step). Slowly lower your heels as far as possible towards the ground, then rise up onto your toes as high as possible. Repeat the movement."
             },
@@ -190,7 +190,7 @@
                 "Id": 22,
                 "Name": "Bodyweight Squats",
                 "Level": "Intermediate",
-                "Duration": "1.5 minutes",
+                "Duration": "00:01:30",
                 "Repetitions": 14,
                 "Description": "Stand with your feet shoulder-width apart. Lower your body by bending at the hips and knees, keeping your chest upright. Squat down until your thighs are parallel to the ground, then push back up to the starting position."
             },
@@ -198,7 +198,7 @@
                 "Id": 23,
                 "Name": "Lunges",
                 "Level": "Intermediate",
-                "Duration": "1.5 minutes",
+                "Duration": "00:01:30",
                 "Repetitions": 14,
                 "Description": "Step forward with one leg and lower your body until both knees are bent at about a 90-degree angle. Keep your torso upright and your front knee aligned with your ankle. Push back up to the starting position and repeat with the other leg."
             },
@@ -206,7 +206,7 @@
                 "Id": 24,
                 "Name": "Calf Raises",
                 "Level": "Intermediate",
-                "Duration": "1.5 minutes",
+                "Duration": "00:01:30",
                 "Repetitions": 14,
                 "Description": "Stand on the balls of your feet on an elevated surface (e.g., a step). Slowly lower your heels as far as possible towards the ground, then rise up onto your toes as high as possible. Repeat the movement."
             },
@@ -214,7 +214,7 @@
                 "Id": 25,
                 "Name": "Bodyweight Squats",
                 "Level": "Advanced",
-                "Duration": "1.5 minutes",
+                "Duration": "00:01:30",
                 "Repetitions": 18,
                 "Description": "Stand with your feet shoulder-width apart. Lower your body by bending at the hips and knees, keeping your chest upright. Squat down until your thighs are parallel to the ground, then push back up to the starting position."
             },
@@ -222,7 +222,7 @@
                 "Id": 26,
                 "Name": "Lunges",
                 "Level": "Advanced",
-                "Duration": "1.5 minutes",
+                "Duration": "00:01:30",
                 "Repetitions": 18,
                 "Description": "Step forward with one leg and lower your body until both knees are bent at about a 90-degree angle. Keep your torso upright and your front knee aligned with your ankle. Push back up to the starting position and repeat with the other leg."
             },
@@ -230,7 +230,7 @@
                 "Id": 27,
                 "Name": "Calf Raises",
                 "Level": "Advanced",
-                "Duration": "1.5 minutes",
+                "Duration": "00:01:30",
                 "Repetitions": 18,
                 "Description": "Stand on the balls of your feet on an elevated surface (e.g., a step). Slowly lower your heels as far as possible towards the ground, then rise up onto your toes as high as possible. Repeat the movement."
             }
@@ -245,7 +245,7 @@
                 "Id": 28,
                 "Name": "Pike Pushups",
                 "Level": "Beginner",
-                "Duration": "2 minutes",
+                "Duration": "00:02:00",
                 "Repetitions": 10,
                 "Description": "Assume a pushup position with your hips raised and your body forming an inverted 'V' shape. Lower your head towards the ground by bending your elbows, then push back up to the starting position."
             },
@@ -253,7 +253,7 @@
                 "Id": 29,
                 "Name": "Shoulder Taps",
                 "Level": "Beginner",
-                "Duration": "2 minutes",
+                "Duration": "00:02:00",
                 "Repetitions": 10,
                 "Description": "Assume a pushup position. Lift one hand off the ground and touch the opposite shoulder, then return to the starting position. Alternate sides for the duration of the exercise."
             },
@@ -261,7 +261,7 @@
                 "Id": 30,
                 "Name": "Handstand Pushups",
                 "Level": "Beginner",
-                "Duration": "2 minutes",
+                "Duration": "00:02:00",
                 "Repetitions": 10,
                 "Description": "Assume a handstand position against a wall or with the assistance of a partner. Lower your body towards the ground by bending your elbows, then push back up to the starting position."
             },
@@ -269,7 +269,7 @@
                 "Id": 31,
                 "Name": "Pike Pushups",
                 "Level": "Intermediate",
-                "Duration": "1.5 minutes",
+                "Duration": "00:01:30",
                 "Repetitions": 14,
                 "Description": "Assume a pushup position with your hips raised and your body forming an inverted 'V' shape. Lower your head towards the ground by bending your elbows, then push back up to the starting position."
             },
@@ -277,7 +277,7 @@
                 "Id": 32,
                 "Name": "Shoulder Taps",
                 "Level": "Intermediate",
-                "Duration": "1.5 minutes",
+                "Duration": "00:01:30",
                 "Repetitions": 14,
                 "Description": "Assume a pushup position. Lift one hand off the ground and touch the opposite shoulder, then return to the starting position. Alternate sides for the duration of the exercise."
             },
@@ -285,7 +285,7 @@
                 "Id": 33,
                 "Name": "Handstand Pushups",
                 "Level": "Intermediate",
-                "Duration": "1.5 minutes",
+                "Duration": "00:01:30",
                 "Repetitions": 14,
                 "Description": "Assume a handstand position against a wall or with the assistance of a partner. Lower your body towards the ground by bending your elbows, then push back up to the starting position."
             },
@@ -293,7 +293,7 @@
                 "Id": 34,
                 "Name": "Pike Pushups",
                 "Level": "Advanced",
-                "Duration": "1.5 minutes",
+                "Duration": "00:01:30",
                 "Repetitions": 18,
                 "Description": "Assume a pushup position with your hips raised and your body forming an inverted 'V' shape. Lower your head towards the ground by bending your elbows, then push back up to the starting position."
             },
@@ -301,7 +301,7 @@
                 "Id": 35,
                 "Name": "Shoulder Taps",
                 "Level": "Advanced",
-                "Duration": "1.5 minutes",
+                "Duration": "00:01:30",
                 "Repetitions": 18,
                 "Description": "Assume a pushup position. Lift one hand off the ground and touch the opposite shoulder, then return to the starting position. Alternate sides for the duration of the exercise."
             },
@@ -309,7 +309,7 @@
                 "Id": 36,
                 "Name": "Handstand Pushups",
                 "Level": "Advanced",
-                "Duration": "1.5 minutes",
+                "Duration": "00:01:30",
                 "Repetitions": 18,
                 "Description": "Assume a handstand position against a wall or with the assistance of a partner. Lower your body towards the ground by bending your elbows, then push back up to the starting position."
             }
@@ -324,7 +324,7 @@
                 "Id": 37,
                 "Name": "Tricep Dips",
                 "Level": "Beginner",
-                "Duration": "2 minutes",
+                "Duration": "00:02:00",
                 "Repetitions": 10,
                 "Description": "Sit on the edge of a stable surface (e.g., a chair or bench) with your hands placed next to your hips. Lift your body off the surface and walk your feet forward. Bend your elbows to lower your body, then straighten your arms to return to the starting position."
             },
@@ -332,7 +332,7 @@
                 "Id": 38,
                 "Name": "Diamond Pushups",
                 "Level": "Beginner",
-                "Duration": "2 minutes",
+                "Duration": "00:02:00",
                 "Repetitions": 10,
                 "Description": "Assume a pushup position but with your hands close together under your chest, forming a diamond shape with your index fingers and thumbs. Lower your body until your chest almost touches your hands, then push back up."
             },
@@ -340,7 +340,7 @@
                 "Id": 39,
                 "Name": "Spiderman Pushups",
                 "Level": "Beginner",
-                "Duration": "2 minutes",
+                "Duration": "00:02:00",
                 "Repetitions": 10,
                 "Description": "Perform a pushup, but as you lower your body, lift one foot off the ground and bring your knee towards your elbow on the same side. Return to the starting position and repeat on the other side."
             },
@@ -348,7 +348,7 @@
                 "Id": 40,
                 "Name": "Tricep Dips",
                 "Level": "Intermediate",
-                "Duration": "1.5 minutes",
+                "Duration": "00:01:30",
                 "Repetitions": 14,
                 "Description": "Sit on the edge of a stable surface (e.g., a chair or bench) with your hands placed next to your hips. Lift your body off the surface and walk your feet forward. Bend your elbows to lower your body, then straighten your arms to return to the starting position."
             },
@@ -356,7 +356,7 @@
                 "Id": 41,
                 "Name": "Diamond Pushups",
                 "Level": "Intermediate",
-                "Duration": "1.5 minutes",
+                "Duration": "00:01:30",
                 "Repetitions": 14,
                 "Description": "Assume a pushup position but with your hands close together under your chest, forming a diamond shape with your index fingers and thumbs. Lower your body until your chest almost touches your hands, then push back up."
             },
@@ -364,7 +364,7 @@
                 "Id": 42,
                 "Name": "Spiderman Pushups",
                 "Level": "Intermediate",
-                "Duration": "1.5 minutes",
+                "Duration": "00:01:30",
                 "Repetitions": 14,
                 "Description": "Perform a pushup, but as you lower your body, lift one foot off the ground and bring your knee towards your elbow on the same side. Return to the starting position and repeat on the other side."
             },
@@ -372,7 +372,7 @@
                 "Id": 43,
                 "Name": "Tricep Dips",
                 "Level": "Advanced",
-                "Duration": "1.5 minutes",
+                "Duration": "00:01:30",
                 "Repetitions": 18,
                 "Description": "Sit on the edge of a stable surface (e.g., a chair or bench) with your hands placed next to your hips. Lift your body off the surface and walk your feet forward. Bend your elbows to lower your body, then straighten your arms to return to the starting position."
             },
@@ -380,7 +380,7 @@
                 "Id": 44,
                 "Name": "Diamond Pushups",
                 "Level": "Advanced",
-                "Duration": "1.5 minutes",
+                "Duration": "00:01:30",
                 "Repetitions": 18,
                 "Description": "Assume a pushup position but with your hands close together under your chest, forming a diamond shape with your index fingers and thumbs. Lower your body until your chest almost touches your hands, then push back up."
             },
@@ -388,7 +388,7 @@
                 "Id": 45,
                 "Name": "Spiderman Pushups",
                 "Level": "Advanced",
-                "Duration": "1.5 minutes",
+                "Duration": "00:01:30",
                 "Repetitions": 18,
                 "Description": "Perform a pushup, but as you lower your body, lift one foot off the ground and bring your knee towards your elbow on the same side. Return to the starting position and repeat on the other side."
             }
